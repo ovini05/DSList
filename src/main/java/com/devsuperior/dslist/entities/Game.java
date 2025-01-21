@@ -96,11 +96,11 @@ public class Game {
 		this.score = score;
 	}
 
-	public String getImlUrl() {
+	public String getImgUrl() {
 		return imgUrl;
 	}
 
-	public void setImlUrl(String imgUrl) {
+	public void setImgUrl(String imgUrl) {
 		this.imgUrl = imgUrl;
 	}
 
